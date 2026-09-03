@@ -50,20 +50,10 @@ MCA Student | Aspiring Full Stack Developer 💻
 
 ---
 
-## 🚀 Featured Project
-
 ### 💼 Personal Portfolio
 
 🔗 **Live Website:**
 https://dishantsuthar.netlify.app/
-
-💻 Built with:
-
-* React.js
-* Vite
-* React Router
-* CSS
-* Lucide React
 
 ---
 
@@ -73,10 +63,6 @@ https://dishantsuthar.netlify.app/
 
 <a href="https://www.linkedin.com/in/dishantsuthar/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/dishantsuthar-tech">
-<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
