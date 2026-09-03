@@ -38,18 +38,6 @@ MCA Student | Aspiring Full Stack Developer 💻
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dishantsuthar-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dishantsuthar-tech&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 ### 💼 Personal Portfolio
 
 🔗 **Live Website:**
@@ -63,6 +51,10 @@ https://dishantsuthar.netlify.app/
 
 <a href="https://www.linkedin.com/in/dishantsuthar/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/dishant_tech">
+  <img src="https://cdn.simpleicons.org/x" width="48" height="48" />
 </a>
 
 </p>
