@@ -50,11 +50,11 @@ https://dishantsuthar.netlify.app/
 <p align="left">
 
 <a href="https://www.linkedin.com/in/dishantsuthar/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="https://x.com/dishant_tech">
-  <img src="https://cdn.simpleicons.org/x" width="48" height="48" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" />
 </a>
 
 </p>
